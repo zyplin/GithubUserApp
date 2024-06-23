@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- SplashScreen application theme. -->
+    <style name="AppThemeSplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <!-- Contents theme. -->
+    <style name="BackgroundLayout">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="TextView">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>
